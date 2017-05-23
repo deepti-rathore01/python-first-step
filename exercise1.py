@@ -1,6 +1,6 @@
 
 """
-# File     : program1.py
+# File     : exercise1.py
 # Brief    :A program for simple arithmetic operations like add, subtract, multiplication, division and etc
 """
 
