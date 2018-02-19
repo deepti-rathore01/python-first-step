@@ -1,0 +1,12 @@
+shoping market list:
+furits
+clothes
+vegetable
+utensil
+shops
+furniture
+mobile
+jewellary
+watches
+electrical things
+
